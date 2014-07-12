@@ -1,0 +1,15 @@
+{
+  "name": "nw-boggle",
+  "description": "boogle",
+  "version": "0.1",
+  "nodejs":true,
+  "main": "index.html",
+  
+  "window": {
+    "show": true,
+    "toolbar": true,
+    "fullscreen":false,
+    "width": 1280,
+    "height": 1024
+  }
+}

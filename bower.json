@@ -1,0 +1,19 @@
+{
+  "name": "itemTags",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shycherry/itemTags",
+  "authors": [
+    "shycherry <vinpowful@free.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "shy-elt-boggle": "shycherry/shy-elt-boggle#latest"
+  }
+}
