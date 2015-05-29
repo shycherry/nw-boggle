@@ -14,7 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "shy-elt-boggle": "shycherry/shy-elt-boggle#latest",
-    "polymer": "~0.5.5"
+    "shy-elt-boggle": "shycherry/shy-elt-boggle#migration-to-polymer-1.0.0",
+    "polymer": "~1.0.2"
   }
 }
