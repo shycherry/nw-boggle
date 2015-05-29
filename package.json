@@ -1,15 +1,24 @@
 {
   "name": "nw-boggle",
   "description": "boogle",
-  "version": "0.1",
+  "version": "1.0.0",
   "nodejs":true,
   "main": "index.html",
-  
   "window": {
     "show": true,
     "toolbar": true,
     "fullscreen":false,
     "width": 1280,
     "height": 1024
-  }
+  },
+  "dependencies": {
+    "nw": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nw"
+  },
+  "author": "",
+  "license": "ISC"
 }

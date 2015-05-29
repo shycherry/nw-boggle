@@ -15,6 +15,6 @@
   ],
   "dependencies": {
     "shy-elt-boggle": "shycherry/shy-elt-boggle#latest",
-    "shy-elt-freewall": "shycherry/shy-elt-freewall#latest"
+    "polymer": "0.5.5"
   }
 }
