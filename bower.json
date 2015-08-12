@@ -1,6 +1,6 @@
 {
   "name": "nw-boogle",
-  "version": "0.0.0",
+  "version": "1.0-rc",
   "homepage": "https://github.com/shycherry/nw-boogle",
   "authors": [
     "shycherry <vinpowful@free.fr>"
@@ -14,7 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "shy-elt-boggle": "shycherry/shy-elt-boggle#migration-to-polymer-1.0.0",
+    "shy-elt-boggle": "shycherry/shy-elt-boggle#^1.0",
     "polymer": "~1.0.2"
   }
 }
